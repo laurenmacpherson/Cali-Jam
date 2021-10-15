@@ -2,18 +2,18 @@
   .container
     a.navbar-brand(href='/')
       i.fas.fa-cube
-      | Project name
+      | CarsTeamName
     button.navbar-toggler(type='button', data-toggle='collapse', data-target='.navbar-collapse')
       span.sr-only Toggle navigation
       span.navbar-toggler-icon
     .collapse.navbar-collapse
       ul.nav.navbar-nav
-        li.nav-item(class=(title === 'Home') ? 'active' : undefined)
-          a.nav-link(href='/') Home
-        li.nav-item(class=(title === 'API Examples') ? 'active' : undefined)
-          a.nav-link(href='/api') API Examples
-        li.nav-item(class=(title === 'Contact') ? 'active' : undefined)
-          a.nav-link(href='/contact') Contact
+        li.nav-item(class=(title === 'Problem') ? 'active' : undefined)
+          a.nav-link(href='/') Problem
+        li.nav-item(class=(title === 'Solution') ? 'active' : undefined)
+          a.nav-link(href='/api') Solution
+        li.nav-item(class=(title === 'Game') ? 'active' : undefined)
+          a.nav-link(href='/contact') Game
       ul.nav.navbar-nav.ml-auto
         if !user
           li.nav-item(class=(title === 'Login') ? 'active' : undefined)
