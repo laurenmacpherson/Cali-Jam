@@ -15,10 +15,16 @@ function Solution() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Solution</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              An effective solution to solve traffic congestion issues is to
+              utilize public transport and carpool. Public transportation
+              including using buses, trains, and also streetcars. Carpooling is
+              when multiple people share a car to go to a certain destination.
+              Carpooling is especially convenient because you and a friend or
+              family member can travel together, and that will be one less car
+              on the road. Whether it be to work, school, or even to buy
+              groceries; carpooling is a very simple way to reduce the number of
+              cars on the road. There are many benefits to using public
+              transportation and carpooling. Read more
             </p>
           </div>
         </div>
