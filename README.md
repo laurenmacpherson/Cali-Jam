@@ -1,6 +1,8 @@
 # Cali-Jam
 Website and game for SCEHacks 2021
 
+[The website can be previewed here.](https://kuroyukiryuu.github.io/SCEHacksWebsite/) Due to limitations with Github's hosting, some portions of our website are not rendering correctly. 
+
 ## Inspiration
 One of our team members, Lauren, has had work commutes that lasted over 3 hours a day. After getting a job that included a commuter bus ticket, her experience getting home completely changed for the better. After discussing our interest in the traffic congestion topic we decided to focus on offering alternative transportation ideas, we used stories like hers as inspiration for what we wanted to promote on our website and in our game. 
 
