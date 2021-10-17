@@ -1,32 +1,25 @@
 import React from "react";
 
 function Game() {
-  return (
-    <div className="game">
-      <div class="container">
-        <div class="row align-items-center my-5">
-          <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">Game</h1>
-            <p>
-              <em>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book.
-              </em>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="game">
+			<div class="container">
+				<div class="row align-items-cente p-5">
+					<iframe
+						src="https://i.simmer.io/@Xenolht/cali-jam"
+						height="750"
+						width="960"
+					></iframe>
+				</div>
+				<h1 class="text-center display-5">Welcome to Cali-Jam!</h1>
+				<p class="lead text-center">
+					Controls:
+					<br></br>W or Up: Move up <br></br>A or Left: Move left <br></br>S or
+					Down: Move down <br></br>D or Right: Move right
+				</p>
+			</div>
+		</div>
+	);
 }
 
 export default Game;

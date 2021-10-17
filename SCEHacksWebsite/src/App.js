@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, Problem, Solution, Game, About } from "./components";
+import { Navigation, Footer, Home, Problem, Solution, Game, About, Overview } from "./components";
 function App() {
   return (
     <div className="App">
