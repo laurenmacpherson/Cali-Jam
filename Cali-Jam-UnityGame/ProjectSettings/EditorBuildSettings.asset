@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Title2.0.unity
+    guid: b90112362084e46409d4ac1ff862496e
+  - enabled: 0
+    path: Assets/Scenes/ModeScene2.0.unity
+    guid: 8e3be8668585c4d448196ecca6e9fd2d
+  - enabled: 1
+    path: Assets/Scenes/ModeScren3.0.unity
+    guid: 64904df48d09a4640a17c65dac8feb06
+  - enabled: 1
+    path: Assets/Scenes/LoreScreen.unity
+    guid: d7de983283f2f344f9ed60efe420b217
+  - enabled: 1
+    path: Assets/Scenes/CarLevels2.unity
+    guid: c38dc5160d2294b4f80976d1975774cd
+  - enabled: 1
+    path: Assets/Scenes/BusLevel.unity
+    guid: 0d894952b2f04c54a95583449b049bc3
+  - enabled: 1
+    path: Assets/Scenes/CarpoolLevel.unity
+    guid: 814b0f5c382788b47a782b689ce3262c
+  - enabled: 0
+    path: Assets/Scenes/WinScene.unity
+    guid: 8f6c7ebc2d84ef746a9340bf4724cb84
+  - enabled: 1
+    path: Assets/Scenes/WinScene2.0.unity
+    guid: 8b300f57b45883b47b6ebf7dbc2f09a1
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: f6c37660719c4184c8dc912814c213ea
+  - enabled: 0
+    path: Assets/Scenes/CarLevel.unity
+    guid: 7b9712d6583223a44b4a147f17abcd39
+  m_configObjects: {}
